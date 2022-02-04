@@ -1,0 +1,177 @@
+#box {
+    letter-spacing: 50px;
+    font-family: "NeueMachina", sans-serif;
+    margin: 0;
+    padding: 0;
+    font-size: 25px;
+    font-weight: bold;
+    background-color: black;
+    width: 100%;
+    height: 100vh;
+    color: #DDD;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: opacity 2s, width 2s, height 2s, transform 2s, background-color 2s, font-size 2s, letter-spacing 2s;
+}
+
+#box {
+    text-align: center;
+}
+
+#box.one {
+    color: black;
+    margin-top: 58px;
+    letter-spacing: 1px;
+    font-size: 20px;
+    background-color: transparent;
+    width: 500px;
+    height: 200px;
+    zoom: 85%;
+}
+
+#whatevr {
+
+    width: 2rem;
+    display: inline-block;
+    text-transform: uppercase;
+    opacity: 0;
+    transition: opacity 2s, width 2s, height 2s, transform 2s;
+}
+
+#whatevr.fck {
+
+    opacity: 1;
+}
+
+#whatevr1 {
+
+    width: 2rem;
+    display: inline-block;
+    text-transform: uppercase;
+    opacity: 0;
+    transition: opacity 2s, width 2s, height 2s, transform 2s;
+}
+
+#whatevr1.fck {
+    opacity: 1;
+}
+
+#whatevr2 {
+
+    width: 2rem;
+    display: inline-block;
+    text-transform: uppercase;
+    opacity: 0;
+    transition: opacity 2s, width 2s, height 2s, transform 2s;
+}
+
+#whatevr2.fck {
+    opacity: 1;
+}
+
+#whatevr3 {
+
+    width: 2rem;
+    display: inline-block;
+    text-transform: uppercase;
+    opacity: 0;
+    transition: opacity 2s, width 2s, height 2s, transform 2s;
+}
+
+#whatevr3.fck {
+    opacity: 1;
+}
+
+#whatevr4 {
+
+    width: 2rem;
+    display: inline-block;
+    text-transform: uppercase;
+    opacity: 0;
+    transition: opacity 2s, width 2s, height 2s, transform 2s;
+}
+
+#whatevr4.fck {
+    opacity: 1;
+}
+
+#whatevr5 {
+
+    width: 2rem;
+    display: inline-block;
+    text-transform: uppercase;
+    opacity: 0;
+    transition: opacity 2s, width 2s, height 2s, transform 2s;
+}
+
+#whatevr5.fck {
+    opacity: 1;
+}
+
+#whatevr6 {
+
+    width: 2rem;
+    display: inline-block;
+    text-transform: uppercase;
+    opacity: 0;
+    transition: opacity 2s, width 8s, height 2s, transform 2s;
+}
+
+#whatevr6.fck {
+    opacity: 1;
+}
+
+#whatevr7 {
+
+    width: 2rem;
+    display: inline-block;
+    text-transform: uppercase;
+    opacity: 0;
+    transition: opacity 2s, width 8s, height 2s, transform 2s;
+}
+
+#whatevr7.fck {
+    opacity: 1;
+}
+
+#whatevr8 {
+
+    width: 2rem;
+    display: inline-block;
+    text-transform: uppercase;
+    opacity: 0;
+    transition: opacity 2s, width 8s, height 2s, transform 2s;
+}
+
+#whatevr8.fck {
+
+    opacity: 1;
+}
+
+#whatevr9 {
+
+    width: 2rem;
+    display: inline-block;
+    text-transform: uppercase;
+    opacity: 0;
+    transition: opacity 2s, width 8s, height 2s, transform 2s;
+}
+
+#whatevr9.fck {
+    opacity: 1;
+}
+
+#whatevr10 {
+
+    width: 2rem;
+    display: inline-block;
+    text-transform: uppercase;
+    opacity: 0;
+    transition: opacity 2s, width 8s, height 2s, transform 2s;
+}
+
+#whatevr10.fck {
+
+    opacity: 1;
+}
